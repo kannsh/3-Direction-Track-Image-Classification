@@ -5,7 +5,7 @@
 # Download Dataset & Saved Model
 https://www.kaggle.com/fushenggg/3-class-track-direction-dataset
 
-*Contains catdogcar1.hdf5 file to load model (Saves time from training)
+*Contains TrackImage0(Draft1).hdf5 file to load model (Saves time from training)
 
 Unzip the file, it will contain 2 folders - a) TrackImage0 and b)rename(example)
 
